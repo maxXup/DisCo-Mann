@@ -6,4 +6,6 @@ Necessite 2 services pour pouvoir fonctionner : Apache, nodejs .
 Necessite également un serveur discord configuré spécialement pour l'occasion.
 Toutes les informations sont enregistrées dans une bdd en .sqlite
 
-Afin de bien configuré le service : l'ensemble des différents fichier doivent être contenu dans le même dossier
+Afin de bien configuré le service : l'ensemble des différents fichiers doivent être contenu dans le même dossier
+
+PROJET NON ACHEVE ! -- N'est pas entièrement fonctionnel --
